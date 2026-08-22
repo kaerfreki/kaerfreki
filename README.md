@@ -4,7 +4,7 @@
 
 Senior backend engineer — 15 years of shipping software, from large-scale data pipelines to LLM-powered products in production.
 
-I design and run distributed backends (**Java · PostgreSQL · Kubernetes**) and industrialize LLM integrations: model deployment, golden-set evaluation, prompt iteration, end-to-end delivery. I care about the distance between an impressive AI demo and a system you can actually rely on.
+I design and run distributed backends (**Java · PostgreSQL · Kubernetes**) and industrialize LLM integrations: model deployment, golden-set evaluation, prompt iteration, end-to-end delivery.
 
 ### Building here
 
