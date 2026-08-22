@@ -11,13 +11,8 @@ I design and run distributed backends (**Java · PostgreSQL · Kubernetes**) and
 | Repo | What it is | Status |
 |---|---|---|
 | `freki-llm-stack` | Self-hosted LLM inference stack — Ollama/vLLM, Docker & Kubernetes deployment, benchmarks | in progress |
-| `freki-extract` | LLM agent that turns messy PDF documents (invoices, quotes) into clean structured JSON | planned |
-| `freki-rag` | Production-grade RAG starter kit in Java — Spring Boot, pgvector, LangChain4j, with a golden-set evaluation harness | planned |
-
 ### Elsewhere
 
 - 🌐 [kaerfreki.fr](https://kaerfreki.fr) — CV & services (FR)
 - ✉️ contact@kaerfreki.fr
 - 📍 Lyon, France · working async, remote
-
-<sub><i>L'excellence technique au service de vos ambitions.</i></sub>
