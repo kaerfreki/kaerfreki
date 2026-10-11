@@ -1,18 +1,31 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Kaer Freki — senior backend & AI engineering" width="100%">
+  <img src="https://github.com/kaerfreki.png" alt="Kaer Freki" width="120">
 </p>
 
-Senior backend engineer — 15 years of shipping software, from large-scale data pipelines to LLM-powered products in production.
+<h1 align="center">Kaer Freki</h1>
 
-I design and run distributed backends (**Java · PostgreSQL · Kubernetes**) and industrialize LLM integrations: model deployment, golden-set evaluation, prompt iteration, end-to-end delivery.
+<p align="center"><i>AI music label for gamers</i></p>
 
-### Building here
+**Kaer Freki** is an AI music label for gamers.
+Its voice is **A·ZR·ᛁ (Azri)**, a masked Norse skald who walks into game worlds and sings what he finds there.
 
-| Repo | What it is | Status |
+### Releases
+
+| Song | Game | Released |
 |---|---|---|
-| `freki-llm-stack` | Self-hosted LLM inference stack — Ollama/vLLM, Docker & Kubernetes deployment, benchmarks | in progress |
-### Elsewhere
+| **Stand Your Ground** | The Blood of Dawnwalker, Part 1: *Ambrus* | 2 Oct 2026 |
+| **DON'T SHOOT (I'm friendly)** | ARC Raiders, *Frozen Trail* | 7 Oct 2026 |
 
-- 🌐 [kaerfreki.fr](https://kaerfreki.fr) — CV & services (FR)
-- ✉️ contact@kaerfreki.fr
-- 📍 Lyon, France · working async, remote
+### Made with
+
+Suno · Claude Code · ComfyUI (FLUX, Qwen-Image, Wan 2.2, LTX) · DaVinci Resolve
+
+### On GitHub
+
+- [`freki-llm-stack`](https://github.com/kaerfreki/freki-llm-stack): the self-hosted GPU stack behind the label (Ollama / vLLM / ComfyUI on one RTX 4080).
+
+### Listen & follow
+
+- ▶️ YouTube: [@kaerfreki](https://www.youtube.com/@kaerfreki)
+- 𝕏 X: [@kaerfreki](https://x.com/kaerfreki)
+- ✉️ kaerfreki@mail.grokbot.com
