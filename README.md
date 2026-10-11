@@ -28,5 +28,5 @@ Suno · Claude Code · ComfyUI (FLUX, Qwen-Image, Wan 2.2, LTX) · DaVinci Resol
 ### Listen & follow
 
 - ▶️ YouTube: [@kaerfreki](https://www.youtube.com/@kaerfreki)
-- 𝕏 X: [@kaerfreki](https://x.com/kaerfreki)
+- 𝕏 : [@kaerfreki](https://x.com/kaerfreki)
 - ✉️ kaerfreki@mail.grokbot.com
