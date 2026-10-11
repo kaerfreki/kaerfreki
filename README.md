@@ -22,6 +22,7 @@ Suno · Claude Code · ComfyUI (FLUX, Qwen-Image, Wan 2.2, LTX) · DaVinci Resol
 
 ### On GitHub
 
+- [`within-one-voice`](https://github.com/kaerfreki/within-one-voice): **Within One Voice**, a real-time three.js music video by A·ZR·ᛁ. [▶ Play it in your browser](https://kaerfreki.github.io/within-one-voice/)
 - [`freki-llm-stack`](https://github.com/kaerfreki/freki-llm-stack): the self-hosted GPU stack behind the label (Ollama / vLLM / ComfyUI on one RTX 4080).
 
 ### Listen & follow
